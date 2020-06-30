@@ -1,0 +1,11 @@
+{
+  "name": "react-b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/saqing/react-b.git",
+  "author": "saqing <contact@saqing.net>",
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^4.3.5"
+  }
+}
